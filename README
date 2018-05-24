@@ -1,0 +1,17 @@
+Python code to simulate the 2018 FIFA World Cup. Created by @eightyfivepoint 
+
+The main script to run simulations can be found in WorldCup2018Sim.py. From the command line execute:
+
+python WorldCup2018Sim.py
+
+to run simulations. In the script you can set the number of simulation iterations (Nsims), turn on/off detailed output (match results and group tables, verbose), and save plots to file (savePlots).
+
+A detailed description of the simulation methodology can be found here:
+
+https://eightyfivepoints.blogspot.com/2018/05/what-can-we-expect-from-21st-fifa-world.html
+
+The input file WorldCup2018_groups.csv contains information on the teams, groups, seeds, elo scores and penalty strengths.
+
+Contact me on twitter (@eightyfivepoint) or by email (eightyfivepoints@gmail.com) if you find any bugs or have questions.
+
+Please do not use for commercial purposes without my permission.
