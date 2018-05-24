@@ -4,7 +4,9 @@ The main script to run simulations can be found in WorldCup2018Sim.py. From the 
 
 > python WorldCup2018Sim.py
 
-to run simulations. In the script you can set the number of simulation iterations (Nsims), turn on/off detailed output (match results and group tables, verbose), and save plots to file (savePlots).
+to run simulations. It requires numpy, pandas, scipy, and matplotlib to run (four very common python packages).
+
+In the script you can set the number of simulation iterations (Nsims), turn on/off detailed output (match results and group tables, verbose), and save plots to file (savePlots).
 
 A detailed description of the simulation methodology can be found here:
 
