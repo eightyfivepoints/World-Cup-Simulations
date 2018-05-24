@@ -2,7 +2,7 @@ Python code to simulate the 2018 FIFA World Cup. Created by @eightyfivepoint
 
 The main script to run simulations can be found in WorldCup2018Sim.py. From the command line execute:
 
-python WorldCup2018Sim.py
+> python WorldCup2018Sim.py
 
 to run simulations. In the script you can set the number of simulation iterations (Nsims), turn on/off detailed output (match results and group tables, verbose), and save plots to file (savePlots).
 
