@@ -1,4 +1,4 @@
-Python code to simulate the 2018 FIFA World Cup. Created by @eightyfivepoint 
+Python 2.7 code to simulate the 2018 FIFA World Cup. Created by @eightyfivepoint 
 
 The main script to run simulations can be found in WorldCup2018Sim.py. From the command line execute:
 
